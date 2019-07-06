@@ -1,9 +1,42 @@
+.flagContainer {
+    height: 500px;
+    width: 750px;
+    border: 1px solid black;
+}
 /* Indonesia */
-
+.indo1 {
+    height: 250px;
+    background-color: red;
+}
+.indo2 {
+    height: 250px;
+}
 /* Colombia */
-
+.col1 {
+    height: 250px;
+    background-color: rgb(253, 216, 4)
+}
+.col2 {
+    height: 125px;
+    background-color: rgb(4, 4, 136);
+}
+.col3 {
+    height: 125px;
+    background-color: rgb(212, 2, 2)
+}
 /* Ireland */
-
+.ire1 {
+    width: 250px;
+    height: 500px;
+    background-color: rgb(79, 133, 79);
+    display: inline-block;
+}
+.ire2 {
+    width: 250px;
+    height: 500px;
+    background-color: rgb(238, 122, 45);
+    float: right;
+}
 /* France */
 
 /* Benin */
